@@ -16,3 +16,6 @@ This is a self-made visualization project built with web scraping, MS Excel & Ta
 - Xtrfy
 - Zowie
 
+Also uploaded a dashboard PDF file.
+
+Here's the link to my Tableau profile: https://public.tableau.com/app/profile/dev.nimje#!/
