@@ -1,4 +1,4 @@
-# Mouse
+# Company shares
 
 This is a self-made visualization project built with web scraping, MS Excel & Tableau showing the share of well-known companies, namely:
 - ASUS
